@@ -1,0 +1,79 @@
+# Byte-compiled / cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+
+venv/
+env/
+
+# Distribution / packaging
+
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+
+*.manifest
+*.spec
+
+# Installer logs
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints
+
+# IDE / Editor settings
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+
+*.log
+
+# Local configs
+
+.env
+*.sqlite3
+db.sqlite3
+
+# Mac / Linux / Windows
+
+.DS_Store
+Thumbs.db
